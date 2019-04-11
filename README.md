@@ -7,4 +7,4 @@
 - quit    退出文件系统并保存系统中的所有文件内容到open打开的文件中
 
 # 预览图:
-http://github.com/11ze/python-pfs-file/raw/master/预览图.png
+ ![image](http://github.com/11ze/python-pfs-file/raw/master/预览图.png)
